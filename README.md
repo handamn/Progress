@@ -9,3 +9,8 @@ Belajar TensorFlow 40%
 **6 Februari 2022**  
 Belajar TensorFlow 45%
   * Mulai sulit persoalannya 
+
+**7 Februari 2022**  
+Belajar TensorFlow 55%
+  * Udah mulai paham
+  * Belajar implementasi fungsi 
