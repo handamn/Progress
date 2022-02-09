@@ -2,4 +2,9 @@ lah nyobain doang
 
 coba konflikin ah di dev
 
-Ngga deng udah ga ada conf
+commit 1
+
+commit 2
+
+commit 3
+
