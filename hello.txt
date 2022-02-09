@@ -8,5 +8,3 @@ commit 2
 
 commit 3
 
-gabung lagi deh
-
