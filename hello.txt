@@ -2,3 +2,5 @@ lah nyobain doang
 
 coba konflikin ah di dev
 
+commit 1
+
